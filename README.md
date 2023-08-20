@@ -13,3 +13,7 @@
 ![GitHub](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-090909?style=for-the-badge&logo=visualstudio&logoColor=681B7B)
 ![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=Csharp&logoColor=813787)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgentPunto&show_icons=true&theme=radical)
