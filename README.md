@@ -17,6 +17,8 @@
 ![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=Csharp&logoColor=813787)
 ![Bash](https://img.shields.io/badge/Bash-090909?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
 
+### Testing Documentation
 
+- [Bug Reports](https://github.com/AgentPunto/bug-reports)
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AgentPunto&show_icons=true&theme=radical)
