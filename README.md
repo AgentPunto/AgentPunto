@@ -21,4 +21,9 @@
 
 - [Bug Reports](https://github.com/AgentPunto/bug-reports)
 
+### My Socials
+
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Agent_Punto)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/alexeysoldatov/)
+
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AgentPunto&show_icons=true&theme=radical)
