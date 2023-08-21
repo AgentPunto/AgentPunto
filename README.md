@@ -3,6 +3,7 @@
 ### Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![AzureDevOps](https://img.shields.io/badge/Azure%20DevOps-090909?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
+![Qase](https://img.shields.io/badge/Qase-090909?style=for-the-badge&logo=&logoColor=136be1)
 ![Dev Tools](https://img.shields.io/badge/Dev%20Tools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Fiddler](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
