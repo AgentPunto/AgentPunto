@@ -20,6 +20,8 @@
 ### Testing Documentation
 
 - [Bug Reports](https://github.com/AgentPunto/bug-reports)
+- [Postman Collections](https://www.postman.com/navigation-physicist-86895330/workspace/stepik-qa-public)
+- [Traffic Captures](https://github.com/AgentPunto/traffic-captures)
 
 ### My Socials
 
