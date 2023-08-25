@@ -1,4 +1,7 @@
 ## I'm a QA Engineer
+## My CV
+[Link to my CV](https://github.com/AgentPunto/my-cv/blob/main/CV_Alexey-Soldatov_QA-Engineer.pdf)
+
 
 ### Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -6,6 +9,7 @@
 ![Qase](https://img.shields.io/badge/Qase-090909?style=for-the-badge&logo=&logoColor=136be1)
 ![Dev Tools](https://img.shields.io/badge/Dev%20Tools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Fiddler](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
