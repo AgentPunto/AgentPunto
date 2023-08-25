@@ -1,7 +1,7 @@
 ## I'm a QA Engineer
-## My CV
-[Link to my CV](https://github.com/AgentPunto/my-cv/blob/main/CV_Alexey-Soldatov_QA-Engineer.pdf)
 
+## My CV
+[Link to my CV](https://drive.google.com/file/d/1rr5zYcu_OSlUccrIjOlEKDAYSLzXuKJl/view?usp=sharing)
 
 ### Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
