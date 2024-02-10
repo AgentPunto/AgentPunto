@@ -29,6 +29,7 @@
 - [Bug Reports](https://github.com/AgentPunto/bug-reports)
 - [API Testing](https://github.com/AgentPunto/api-testing)
 - [Traffic Captures](https://github.com/AgentPunto/traffic-captures)
+- [SQL Requests](https://github.com/AgentPunto/sql-requests)
 
 ### My Socials
 
