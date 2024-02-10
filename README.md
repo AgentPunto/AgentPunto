@@ -3,6 +3,9 @@
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1rr5zYcu_OSlUccrIjOlEKDAYSLzXuKJl/view?usp=sharing)
 
+## My QA certificate
+[QA course certificate](https://stepik.org/cert/2356377)
+
 ### Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![AzureDevOps](https://img.shields.io/badge/Azure%20DevOps-090909?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
