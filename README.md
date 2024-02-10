@@ -27,7 +27,7 @@
 ### Testing Documentation
 
 - [Bug Reports](https://github.com/AgentPunto/bug-reports)
-- [Postman Collections](https://www.postman.com/navigation-physicist-86895330/workspace/stepik-qa-public)
+- [API Testing](https://github.com/AgentPunto/api-testing)
 - [Traffic Captures](https://github.com/AgentPunto/traffic-captures)
 
 ### My Socials
